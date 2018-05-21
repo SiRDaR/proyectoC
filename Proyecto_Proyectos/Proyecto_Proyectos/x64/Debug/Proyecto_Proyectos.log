@@ -1,0 +1,9 @@
+﻿  Servicios.c
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(27): warning C4013: 'getch' sin definir; se supone que extern devuelve como resultado int
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(38): warning C4013: 'toupper' sin definir; se supone que extern devuelve como resultado int
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(38): warning C4013: 'getche' sin definir; se supone que extern devuelve como resultado int
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(66): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(89): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+c:\users\iñaki\desktop\proyecto_proyectos\proyecto_proyectos\servicios\servicios.c(118): warning C4101: 'opc': variable local sin referencia
+  Proyecto_Proyectos.vcxproj -> C:\Users\Iñaki\Desktop\Proyecto_Proyectos\x64\Debug\Proyecto_Proyectos.exe
+  Proyecto_Proyectos.vcxproj -> C:\Users\Iñaki\Desktop\Proyecto_Proyectos\x64\Debug\Proyecto_Proyectos.pdb (Partial PDB)
